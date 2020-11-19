@@ -10,6 +10,6 @@ You can usually find me in The Internet™ as [juacrumar](https://juacrumar.es).
 [![twitter.com/juacrumar](https://github.com/scarlehoff/scarlehoff/raw/master/icon-material/twit.svg)](https://twitter.com/juacrumar)
 [![linkedin](https://github.com/scarlehoff/scarlehoff/raw/master/icon-material/lin.svg)](https://www.linkedin.com/in/juacrumar/)
 [![aur](https://github.com/scarlehoff/scarlehoff/raw/master/icon-material/arch-linux.svg)](https://aur.archlinux.org/account/juacrumar)
-[![google scholar])](https://github.com/scarlehoff/scarlehoff/raw/master/icon-material/googlescholar.svg)(https://scholar.google.com/citations?user=KNJTqucAAAAJ&hl=en)
+[![google scholar](https://github.com/scarlehoff/scarlehoff/raw/master/icon-material/googlescholar.svg)](https://scholar.google.com/citations?user=KNJTqucAAAAJ&hl=en)
 
 [![juacrumar.es juacrumar.es](https://img.shields.io/website?label=juacrumar.es&url=https%3A%2F%2Fjuacrumar.es)](https://juacrumar.es)
