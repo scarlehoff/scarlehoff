@@ -7,8 +7,8 @@ You can usually find me in The Internet™ as [juacrumar](https://juacrumar.es).
 
 #### You can find me at
 <!-- update icons from their svgs so they look a bit better, taken from: https://iconify.design/icon-sets/ -->
-[![twitter.com/juacrumar](https://github.com/scarlehoff/scarlehoff/raw/master/icon-material/twit.png)](https://twitter.com/juacrumar)
-[![linkedin](https://github.com/scarlehoff/scarlehoff/raw/master/icon-material/ldin.png)](https://www.linkedin.com/in/juacrumar/)
-[![aur](https://github.com/scarlehoff/scarlehoff/raw/master/icon-material/arch.png)](https://aur.archlinux.org/account/juacrumar)
+[![twitter.com/juacrumar](https://github.com/scarlehoff/scarlehoff/raw/master/icon-material/twit.svg)](https://twitter.com/juacrumar)
+[![linkedin](https://github.com/scarlehoff/scarlehoff/raw/master/icon-material/lin.svg)](https://www.linkedin.com/in/juacrumar/)
+[![aur](https://github.com/scarlehoff/scarlehoff/raw/master/icon-material/arch-linux.svg)](https://aur.archlinux.org/account/juacrumar)
 
 [![juacrumar.es juacrumar.es](https://img.shields.io/website?label=juacrumar.es&url=https%3A%2F%2Fjuacrumar.es)](https://juacrumar.es)
