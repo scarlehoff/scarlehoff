@@ -5,10 +5,13 @@ My work mostly focus on [high precision numerical calculations](https://inspireh
 
 You can usually find me in The Internet™ as [juacrumar](https://www.linkedin.com/in/juacrumar/).
 
-For more details about me, my research and so on you can find my personal webpage at [![juacrumar.es juacrumar.es](https://img.shields.io/website?label=juacrumar.es&url=https%3A%2F%2Fjuacrumar.es)](https://juacrumar.es).
+For more details about me, my research and so on you can find my personal webpage at [juacrumar.es](https://juacrumar.es)
 
 #### You can find me at
-[![Twitter](https://img.shields.io/twitter/url?label=%40juacrumar&style=social&url=https%3A%2F%2Ftwitter.com%2Fjuacrumar)](https://twitter.com/juacrumar)
+<!-- 
+[![twitter.com/juacrumar](http://i.imgur.com/tXSoThF.png)](https://twitter.com/juacrumar)
+[![facebook.com/juacrumar](http://i.imgur.com/P3YfQoD.png)](http://www.facebook.com/juacrumar)
+[![github.com/scarlehoff](http://i.imgur.com/0o48UoR.png)](http://www.github.com/scarlehoff)
 
-#### Github stats
-![juacrumar's github stats](https://github-readme-stats.vercel.app/api?username=scarlehoff&count_private=true&show_icons=true&theme=dracula)
+[![juacrumar.es juacrumar.es](https://img.shields.io/website?label=juacrumar.es&url=https%3A%2F%2Fjuacrumar.es)](https://juacrumar.es)
+-->
